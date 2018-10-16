@@ -1,0 +1,5 @@
+rootProject.name = 'netty-study'
+include 'protobuf-demo'
+include 'guide'
+include 'nio-demo'
+
